@@ -5,7 +5,11 @@
 We are providing preprocessed dataset about COVID-19 (corona virus) disease. The source data comes from [ECDC](https://www.ecdc.europa.eu/en). The beginning of time series is 2020-01-01. We are trying to keep the repository up to date. If you have any question, don't hesitate to ask.
 
 Currently we provide numbers of confirmed cases and death per date and country. Dataset contains 6 columns in the following order:
-` countrycode ` | ` date ` | ` cumulative cases ` | ` cumulative death ` | ` additional cases ` | ` additional death `.
+` date ` | ` areacode ` | ` cumulated cases ` | ` cumulated death ` | ` additional cases ` | ` additional death `.
+
+Sidenotes:
+- ` date ` field is in ` YYYY-MM-DD ` format.
+- ` areacode ` field follows the phone country codes but U.S.A. is ` 1000 `.
 
 ## Working example
 
