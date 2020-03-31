@@ -13,7 +13,7 @@ Sidenotes:
 
 ## Working example
 
-On [rixel](https://hyperrixel.com/codiv19map)'s website we use this dataset to show various aspects of COVID-19 epidemic.
+On [rixel](https://hyperrixel.com/covid19map)'s website we use this dataset to show various aspects of COVID-19 epidemic.
 ![screenshot](https://hyperrixel.com/covid19map/screenshot.jpg)
 
 ## Notes
